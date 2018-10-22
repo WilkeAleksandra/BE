@@ -1,0 +1,13 @@
+1540249983
+s:1987:"HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 22 Oct 2018 21:13:04 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1676
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"24637","name":"ps_cashondelivery","displayName":"Cash on delivery (COD)","categoryName":"Natif","description":"Accept payments on delivery, by cash, to make it easy for your customers to purchase on your store","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/pl\/natif\/24637-cash-on-delivery-cod.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-PL&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/24637.jpg","fullDescription":"Accept payments on delivery, by cash, to make it easy for your customers to purchase on your store.","additionalDescription":"Use this native module to:\r\n<ul>\r\n\t<li><strong>Facilitate shopping:<\/strong> create a flexible purchasing environment for your clients, allow to make them feel like going back.<\/li>\r\n\t<li><strong>Allow anyone to buy your products:<\/strong> accepting cash on delivery help customers without a credit card to purchase your items.<\/li>\r\n<\/ul>\r\n","features":"No need to configure this module, all you have to do is enable or disable it; this payment mode appears during the checkout process.","customer_benefits":"","demo_video":"","version":"1.0.6","last_update":"2018-10-22 05:01:18","compatibility":{"from":"1.7.1.0","to":"1.7.5.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias1.prestastore.com\/1293813-pprod\/cash-on-delivery-cod.jpg","big":"https:\/\/medias1.prestastore.com\/1293813-pbig\/cash-on-delivery-cod.jpg"}}]}";
