@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-22 16:44:32
+/* Smarty version 3.1.32, created on 2018-10-22 23:22:54
   from 'module:productcommentsproductcom' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bcde250618080_37623297',
+  'unifunc' => 'content_5bce3faeb5a3c1_57970083',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'ef52c2fd720b69606a7340db85e126eaa0332c5b' => 
     array (
       0 => 'module:productcommentsproductcom',
-      1 => 1540217237,
+      1 => 1540238320,
       2 => 'module',
     ),
   ),
@@ -20,14 +20,14 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bcde250618080_37623297 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bce3faeb5a3c1_57970083 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="comments_note">
     <?php if ($_smarty_tpl->tpl_vars['averageTotal']->value > 0 && Configuration::get('PRODUCT_COMMENTS_LIST') == 1) {?>
         <div class="star_content clearfix">
             <?php
 $_smarty_tpl->tpl_vars['__smarty_section_i'] = new Smarty_Variable(array());
 if (true) {
-for ($__section_i_0_iteration = 1, $_smarty_tpl->tpl_vars['__smarty_section_i']->value['index'] = 0; $__section_i_0_iteration <= 5; $__section_i_0_iteration++, $_smarty_tpl->tpl_vars['__smarty_section_i']->value['index']++){
+for ($__section_i_7_iteration = 1, $_smarty_tpl->tpl_vars['__smarty_section_i']->value['index'] = 0; $__section_i_7_iteration <= 5; $__section_i_7_iteration++, $_smarty_tpl->tpl_vars['__smarty_section_i']->value['index']++){
 ?>
                 <?php if ($_smarty_tpl->tpl_vars['averageTotal']->value <= (isset($_smarty_tpl->tpl_vars['__smarty_section_i']->value['index']) ? $_smarty_tpl->tpl_vars['__smarty_section_i']->value['index'] : null)) {?>
                     <div class="star"></div>
