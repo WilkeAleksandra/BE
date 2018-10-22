@@ -1,0 +1,13 @@
+1540225932
+s:2146:"HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 22 Oct 2018 14:32:11 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1835
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"22321","name":"ps_mainmenu","displayName":"Main menu","categoryName":"Natif","description":"Make it easy for your visitors to find their way on your store, select the right link and turn it into a menu item","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/pl\/natif\/22321-main-menu.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-PL&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22321.jpg","fullDescription":"Make it easy for your visitors to find their way on your store, select the right link and turn it into a menu item.","additionalDescription":"Use this native module to:\r\n<ul>\r\n\t<li><strong>\u200bEase navigation on your store:<\/strong> make it simple for your customer to browse your shop while keeping an eye on its menu.<\/li>\r\n\t<li><strong>Increase your visibility:<\/strong> select content and keywords you want to highlight and focus on your SEO.<\/li>\r\n<\/ul>\r\n","features":"Choose what entry you want to display in the menu of your homepage, it will design the architecture of your store and therefore help your visitors to navigate through it.","customer_benefits":"","demo_video":"","version":"2.1.1","last_update":"2018-10-22 05:01:24","compatibility":{"from":"1.7.1.0","to":"1.7.5.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/1293758-pprod\/main-menu.jpg","big":"https:\/\/medias2.prestastore.com\/1293758-pbig\/main-menu.jpg"},"pictures":{"small":["https:\/\/medias1.prestastore.com\/1293759-pprod\/main-menu.jpg"],"big":["https:\/\/medias1.prestastore.com\/1293759-pbig\/main-menu.jpg"]}}]}";
