@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-22 23:45:00
+/* Smarty version 3.1.32, created on 2018-10-23 13:12:30
   from 'E:\wamp64\www\BE-projekt\modules\ps_themecusto\views\templates\admin\controllers\advanced\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bce44dc6adb35_58515533',
+  'unifunc' => 'content_5bcf021e9122a2_20726680',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./elem/modal.tpl' => 1,
   ),
 ),false)) {
-function content_5bce44dc6adb35_58515533 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bcf021e9122a2_20726680 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="psthemecusto">
     <div class="panel col-lg-12">

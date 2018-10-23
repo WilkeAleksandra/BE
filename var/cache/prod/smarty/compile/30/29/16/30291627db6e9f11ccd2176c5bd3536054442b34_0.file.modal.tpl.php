@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-22 23:45:00
+/* Smarty version 3.1.32, created on 2018-10-23 13:12:30
   from 'E:\wamp64\www\BE-projekt\modules\ps_themecusto\views\templates\admin\controllers\advanced\elem\modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bce44dca3abd9_79424083',
+  'unifunc' => 'content_5bcf021eb44820_13706512',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bce44dca3abd9_79424083 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bcf021eb44820_13706512 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="modal fade" id="upload-child-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
