@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-25 17:11:53
+/* Smarty version 3.1.32, created on 2018-10-26 00:21:38
   from 'C:\wamp64\www\BE-projekt\themes\classic\templates\_partials\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd1dd3941a345_26299509',
+  'unifunc' => 'content_5bd241f2cc9252_98529176',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,14 +20,14 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bd1dd3941a345_26299509 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd241f2cc9252_98529176 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 <div class="container">
   <div class="row">
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_21363754785bd1dd394018b4_51349891', 'hook_footer_before');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_13928553655bd241f2cb1423_94513576', 'hook_footer_before');
 ?>
 
   </div>
@@ -36,13 +36,13 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_21363754785bd1dd39
   <div class="container">
     <div class="row">
       <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2377123595bd1dd394063a5_13872841', 'hook_footer');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_14886664425bd241f2cb6035_11653914', 'hook_footer');
 ?>
 
     </div>
     <div class="row">
       <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_7244447145bd1dd3940b644_73516927', 'hook_footer_after');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_12984869045bd241f2cba395_85635094', 'hook_footer_after');
 ?>
 
     </div>
@@ -50,7 +50,7 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_7244447145bd1dd394
       <div class="col-md-12">
         <p class="text-sm-center">
           <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_8676486825bd1dd3940f970_65453114', 'copyright_link');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1020917065bd241f2cbe734_92531746', 'copyright_link');
 ?>
 
         </p>
@@ -60,12 +60,12 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_8676486825bd1dd394
 </div>
 <?php }
 /* {block 'hook_footer_before'} */
-class Block_21363754785bd1dd394018b4_51349891 extends Smarty_Internal_Block
+class Block_13928553655bd241f2cb1423_94513576 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_footer_before' => 
   array (
-    0 => 'Block_21363754785bd1dd394018b4_51349891',
+    0 => 'Block_13928553655bd241f2cb1423_94513576',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -78,12 +78,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'hook_footer_before'} */
 /* {block 'hook_footer'} */
-class Block_2377123595bd1dd394063a5_13872841 extends Smarty_Internal_Block
+class Block_14886664425bd241f2cb6035_11653914 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_footer' => 
   array (
-    0 => 'Block_2377123595bd1dd394063a5_13872841',
+    0 => 'Block_14886664425bd241f2cb6035_11653914',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -96,12 +96,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'hook_footer'} */
 /* {block 'hook_footer_after'} */
-class Block_7244447145bd1dd3940b644_73516927 extends Smarty_Internal_Block
+class Block_12984869045bd241f2cba395_85635094 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_footer_after' => 
   array (
-    0 => 'Block_7244447145bd1dd3940b644_73516927',
+    0 => 'Block_12984869045bd241f2cba395_85635094',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -114,12 +114,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'hook_footer_after'} */
 /* {block 'copyright_link'} */
-class Block_8676486825bd1dd3940f970_65453114 extends Smarty_Internal_Block
+class Block_1020917065bd241f2cbe734_92531746 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'copyright_link' => 
   array (
-    0 => 'Block_8676486825bd1dd3940f970_65453114',
+    0 => 'Block_1020917065bd241f2cbe734_92531746',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
