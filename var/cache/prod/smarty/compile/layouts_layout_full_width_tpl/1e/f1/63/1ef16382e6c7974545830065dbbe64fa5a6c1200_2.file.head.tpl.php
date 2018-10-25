@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-23 16:40:01
+/* Smarty version 3.1.32, created on 2018-10-25 13:17:06
   from 'E:\wamp64\www\BE-projekt\themes\classic\templates\_partials\head.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bcf32c114ad51_56009913',
+  'unifunc' => 'content_5bd1a632b7ca54_75890889',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,59 +22,59 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:_partials/javascript.tpl' => 1,
   ),
 ),false)) {
-function content_5bcf32c114ad51_56009913 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd1a632b7ca54_75890889 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3047330175bcf32c10c92d2_37482493', 'head_charset');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_16972714255bd1a632ad7269_96113077', 'head_charset');
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_17398857645bcf32c10ce798_93322027', 'head_ie_compatibility');
-?>
-
-
-<?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3940058465bcf32c10d3366_14121360', 'head_seo');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_8411866605bd1a632adc6b0_84985920', 'head_ie_compatibility');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_12963063735bcf32c1115dd8_99396211', 'head_viewport');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_16053946365bd1a632ae21a2_91388649', 'head_seo');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_17532204645bcf32c1119e74_56924821', 'head_icons');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_20196958515bd1a632b1fe97_45649359', 'head_viewport');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_17166462235bcf32c112c1e9_56357461', 'stylesheets');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_20796437825bd1a632b23bb8_67777443', 'head_icons');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_16629985705bcf32c1135295_92644518', 'javascript_head');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_18851541355bd1a632b376a0_43966175', 'stylesheets');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_12327567425bcf32c1140017_70550166', 'hook_header');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_7330284105bd1a632b48626_76171141', 'javascript_head');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_18126951655bcf32c1146b10_08154509', 'hook_extra');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_7469316635bd1a632b66eb4_44662876', 'hook_header');
+?>
+
+
+<?php 
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_11493355525bd1a632b774a3_58040551', 'hook_extra');
 ?>
 
 <?php }
 /* {block 'head_charset'} */
-class Block_3047330175bcf32c10c92d2_37482493 extends Smarty_Internal_Block
+class Block_16972714255bd1a632ad7269_96113077 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'head_charset' => 
   array (
-    0 => 'Block_3047330175bcf32c10c92d2_37482493',
+    0 => 'Block_16972714255bd1a632ad7269_96113077',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -86,12 +86,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'head_charset'} */
 /* {block 'head_ie_compatibility'} */
-class Block_17398857645bcf32c10ce798_93322027 extends Smarty_Internal_Block
+class Block_8411866605bd1a632adc6b0_84985920 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'head_ie_compatibility' => 
   array (
-    0 => 'Block_17398857645bcf32c10ce798_93322027',
+    0 => 'Block_8411866605bd1a632adc6b0_84985920',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -103,7 +103,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'head_ie_compatibility'} */
 /* {block 'head_seo_title'} */
-class Block_9597358255bcf32c10d5bb4_50905550 extends Smarty_Internal_Block
+class Block_2258662955bd1a632ae4937_27721140 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 echo htmlspecialchars($_smarty_tpl->tpl_vars['page']->value['meta']['title'], ENT_QUOTES, 'UTF-8');
@@ -111,7 +111,7 @@ echo htmlspecialchars($_smarty_tpl->tpl_vars['page']->value['meta']['title'], EN
 }
 /* {/block 'head_seo_title'} */
 /* {block 'head_seo_description'} */
-class Block_18904721095bcf32c10dd443_48149290 extends Smarty_Internal_Block
+class Block_1757923845bd1a632aec628_50194532 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 echo htmlspecialchars($_smarty_tpl->tpl_vars['page']->value['meta']['description'], ENT_QUOTES, 'UTF-8');
@@ -119,7 +119,7 @@ echo htmlspecialchars($_smarty_tpl->tpl_vars['page']->value['meta']['description
 }
 /* {/block 'head_seo_description'} */
 /* {block 'head_seo_keywords'} */
-class Block_4003641905bcf32c10e4b60_74353461 extends Smarty_Internal_Block
+class Block_16003563585bd1a632af3aa2_85330748 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 echo htmlspecialchars($_smarty_tpl->tpl_vars['page']->value['meta']['keywords'], ENT_QUOTES, 'UTF-8');
@@ -127,7 +127,7 @@ echo htmlspecialchars($_smarty_tpl->tpl_vars['page']->value['meta']['keywords'],
 }
 /* {/block 'head_seo_keywords'} */
 /* {block 'head_hreflang'} */
-class Block_20473354045bcf32c11016b5_34800326 extends Smarty_Internal_Block
+class Block_21113760655bd1a632b0ea47_61533564 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -149,43 +149,43 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 }
 /* {/block 'head_hreflang'} */
 /* {block 'head_seo'} */
-class Block_3940058465bcf32c10d3366_14121360 extends Smarty_Internal_Block
+class Block_16053946365bd1a632ae21a2_91388649 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'head_seo' => 
   array (
-    0 => 'Block_3940058465bcf32c10d3366_14121360',
+    0 => 'Block_16053946365bd1a632ae21a2_91388649',
   ),
   'head_seo_title' => 
   array (
-    0 => 'Block_9597358255bcf32c10d5bb4_50905550',
+    0 => 'Block_2258662955bd1a632ae4937_27721140',
   ),
   'head_seo_description' => 
   array (
-    0 => 'Block_18904721095bcf32c10dd443_48149290',
+    0 => 'Block_1757923845bd1a632aec628_50194532',
   ),
   'head_seo_keywords' => 
   array (
-    0 => 'Block_4003641905bcf32c10e4b60_74353461',
+    0 => 'Block_16003563585bd1a632af3aa2_85330748',
   ),
   'head_hreflang' => 
   array (
-    0 => 'Block_20473354045bcf32c11016b5_34800326',
+    0 => 'Block_21113760655bd1a632b0ea47_61533564',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
   <title><?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_9597358255bcf32c10d5bb4_50905550', 'head_seo_title', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2258662955bd1a632ae4937_27721140', 'head_seo_title', $this->tplIndex);
 ?>
 </title>
   <meta name="description" content="<?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_18904721095bcf32c10dd443_48149290', 'head_seo_description', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1757923845bd1a632aec628_50194532', 'head_seo_description', $this->tplIndex);
 ?>
 ">
   <meta name="keywords" content="<?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_4003641905bcf32c10e4b60_74353461', 'head_seo_keywords', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_16003563585bd1a632af3aa2_85330748', 'head_seo_keywords', $this->tplIndex);
 ?>
 ">
   <?php if ($_smarty_tpl->tpl_vars['page']->value['meta']['robots'] !== 'index') {?>
@@ -197,7 +197,7 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_4003641905bcf32c10
 ">
   <?php }?>
   <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_20473354045bcf32c11016b5_34800326', 'head_hreflang', $this->tplIndex);
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_21113760655bd1a632b0ea47_61533564', 'head_hreflang', $this->tplIndex);
 ?>
 
 <?php
@@ -205,12 +205,12 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_20473354045bcf32c1
 }
 /* {/block 'head_seo'} */
 /* {block 'head_viewport'} */
-class Block_12963063735bcf32c1115dd8_99396211 extends Smarty_Internal_Block
+class Block_20196958515bd1a632b1fe97_45649359 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'head_viewport' => 
   array (
-    0 => 'Block_12963063735bcf32c1115dd8_99396211',
+    0 => 'Block_20196958515bd1a632b1fe97_45649359',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -222,12 +222,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'head_viewport'} */
 /* {block 'head_icons'} */
-class Block_17532204645bcf32c1119e74_56924821 extends Smarty_Internal_Block
+class Block_20796437825bd1a632b23bb8_67777443 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'head_icons' => 
   array (
-    0 => 'Block_17532204645bcf32c1119e74_56924821',
+    0 => 'Block_20796437825bd1a632b23bb8_67777443',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -244,12 +244,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'head_icons'} */
 /* {block 'stylesheets'} */
-class Block_17166462235bcf32c112c1e9_56357461 extends Smarty_Internal_Block
+class Block_18851541355bd1a632b376a0_43966175 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'stylesheets' => 
   array (
-    0 => 'Block_17166462235bcf32c112c1e9_56357461',
+    0 => 'Block_18851541355bd1a632b376a0_43966175',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -260,12 +260,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'stylesheets'} */
 /* {block 'javascript_head'} */
-class Block_16629985705bcf32c1135295_92644518 extends Smarty_Internal_Block
+class Block_7330284105bd1a632b48626_76171141 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'javascript_head' => 
   array (
-    0 => 'Block_16629985705bcf32c1135295_92644518',
+    0 => 'Block_7330284105bd1a632b48626_76171141',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -276,12 +276,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'javascript_head'} */
 /* {block 'hook_header'} */
-class Block_12327567425bcf32c1140017_70550166 extends Smarty_Internal_Block
+class Block_7469316635bd1a632b66eb4_44662876 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_header' => 
   array (
-    0 => 'Block_12327567425bcf32c1140017_70550166',
+    0 => 'Block_7469316635bd1a632b66eb4_44662876',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -294,12 +294,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'hook_header'} */
 /* {block 'hook_extra'} */
-class Block_18126951655bcf32c1146b10_08154509 extends Smarty_Internal_Block
+class Block_11493355525bd1a632b774a3_58040551 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_extra' => 
   array (
-    0 => 'Block_18126951655bcf32c1146b10_08154509',
+    0 => 'Block_11493355525bd1a632b774a3_58040551',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
