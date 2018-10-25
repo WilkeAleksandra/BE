@@ -1,11 +1,19 @@
 <?php
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-24 22:26:02
+=======
+/* Smarty version 3.1.32, created on 2018-10-25 13:49:23
+>>>>>>> dorota
   from 'module:pscontactinfopscontactinf' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
+<<<<<<< HEAD
   'unifunc' => 'content_5bd0d55ae14057_27145504',
+=======
+  'unifunc' => 'content_5bd1adc30fefb6_77162773',
+>>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +28,11 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
+<<<<<<< HEAD
 function content_5bd0d55ae14057_27145504 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_5bd1adc30fefb6_77162773 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
 ?>
 <div class="block-contact col-md-4 links wrapper">
   <div class="hidden-sm-down">
