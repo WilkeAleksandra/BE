@@ -1,26 +1,18 @@
 <?php
-<<<<<<< HEAD
-/* Smarty version 3.1.32, created on 2018-10-24 22:26:02
-=======
-/* Smarty version 3.1.32, created on 2018-10-25 13:49:23
->>>>>>> dorota
+/* Smarty version 3.1.32, created on 2018-10-25 14:03:58
   from 'module:pscontactinfopscontactinf' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-<<<<<<< HEAD
-  'unifunc' => 'content_5bd0d55ae14057_27145504',
-=======
-  'unifunc' => 'content_5bd1adc30fefb6_77162773',
->>>>>>> dorota
+  'unifunc' => 'content_5bd1b12ea077d5_75826262',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9992f3fe04dd41bcec1a2029cf07bead637caf4d' => 
     array (
       0 => 'module:pscontactinfopscontactinf',
-      1 => 1539604014,
+      1 => 1540238324,
       2 => 'module',
     ),
   ),
@@ -28,11 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-<<<<<<< HEAD
-function content_5bd0d55ae14057_27145504 (Smarty_Internal_Template $_smarty_tpl) {
-=======
-function content_5bd1adc30fefb6_77162773 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
+function content_5bd1b12ea077d5_75826262 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="block-contact col-md-4 links wrapper">
   <div class="hidden-sm-down">

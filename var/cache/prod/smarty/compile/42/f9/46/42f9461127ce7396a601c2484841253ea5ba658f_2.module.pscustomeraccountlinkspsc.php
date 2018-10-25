@@ -1,26 +1,18 @@
 <?php
-<<<<<<< HEAD
-/* Smarty version 3.1.32, created on 2018-10-24 22:26:02
-=======
-/* Smarty version 3.1.32, created on 2018-10-25 13:49:22
->>>>>>> dorota
+/* Smarty version 3.1.32, created on 2018-10-25 14:03:58
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-<<<<<<< HEAD
-  'unifunc' => 'content_5bd0d55ad9a514_24310519',
-=======
-  'unifunc' => 'content_5bd1adc2f178c9_35244036',
->>>>>>> dorota
+  'unifunc' => 'content_5bd1b12e8e4280_73131547',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42f9461127ce7396a601c2484841253ea5ba658f' => 
     array (
       0 => 'module:pscustomeraccountlinkspsc',
-      1 => 1539604014,
+      1 => 1540238324,
       2 => 'module',
     ),
   ),
@@ -28,11 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-<<<<<<< HEAD
-function content_5bd0d55ad9a514_24310519 (Smarty_Internal_Template $_smarty_tpl) {
-=======
-function content_5bd1adc2f178c9_35244036 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
+function content_5bd1b12e8e4280_73131547 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="block_myaccount_infos" class="col-md-2 links wrapper">
   <p class="h3 myaccount-title hidden-sm-down">

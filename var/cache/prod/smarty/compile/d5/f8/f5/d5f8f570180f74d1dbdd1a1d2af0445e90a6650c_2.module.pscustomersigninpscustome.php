@@ -1,26 +1,18 @@
 <?php
-<<<<<<< HEAD
-/* Smarty version 3.1.32, created on 2018-10-24 22:26:02
-=======
-/* Smarty version 3.1.32, created on 2018-10-25 13:49:21
->>>>>>> dorota
+/* Smarty version 3.1.32, created on 2018-10-25 14:03:57
   from 'module:pscustomersigninpscustome' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-<<<<<<< HEAD
-  'unifunc' => 'content_5bd0d55a5b8bc8_28410702',
-=======
-  'unifunc' => 'content_5bd1adc14c1789_26552499',
->>>>>>> dorota
+  'unifunc' => 'content_5bd1b12d362f73_98950732',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd5f8f570180f74d1dbdd1a1d2af0445e90a6650c' => 
     array (
       0 => 'module:pscustomersigninpscustome',
-      1 => 1539604014,
+      1 => 1540238324,
       2 => 'module',
     ),
   ),
@@ -28,11 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-<<<<<<< HEAD
-function content_5bd0d55a5b8bc8_28410702 (Smarty_Internal_Template $_smarty_tpl) {
-=======
-function content_5bd1adc14c1789_26552499 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
+function content_5bd1b12d362f73_98950732 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="_desktop_user_info">
   <div class="user-info">
     <?php if ($_smarty_tpl->tpl_vars['logged']->value) {?>

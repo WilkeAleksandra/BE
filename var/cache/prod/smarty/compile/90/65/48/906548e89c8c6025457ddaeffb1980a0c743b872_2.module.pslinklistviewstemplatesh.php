@@ -1,26 +1,18 @@
 <?php
-<<<<<<< HEAD
-/* Smarty version 3.1.32, created on 2018-10-24 22:26:02
-=======
-/* Smarty version 3.1.32, created on 2018-10-25 13:49:22
->>>>>>> dorota
+/* Smarty version 3.1.32, created on 2018-10-25 14:03:58
   from 'module:pslinklistviewstemplatesh' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-<<<<<<< HEAD
-  'unifunc' => 'content_5bd0d55ad57b59_14927215',
-=======
-  'unifunc' => 'content_5bd1adc2d961d5_04436739',
->>>>>>> dorota
+  'unifunc' => 'content_5bd1b12e7586b4_05664724',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '906548e89c8c6025457ddaeffb1980a0c743b872' => 
     array (
       0 => 'module:pslinklistviewstemplatesh',
-      1 => 1539604014,
+      1 => 1540238324,
       2 => 'module',
     ),
   ),
@@ -28,11 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-<<<<<<< HEAD
-function content_5bd0d55ad57b59_14927215 (Smarty_Internal_Template $_smarty_tpl) {
-=======
-function content_5bd1adc2d961d5_04436739 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
+function content_5bd1b12e7586b4_05664724 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="col-md-4 links">
   <div class="row">
   <?php
