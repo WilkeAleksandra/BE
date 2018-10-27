@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-25 20:31:37
+/* Smarty version 3.1.32, created on 2018-10-27 19:42:57
   from 'E:\wamp64\www\BE-projekt\themes\classic\templates\checkout\_partials\address-form.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd20c09c6ce09_52673928',
+  'unifunc' => 'content_5bd4a3a1eb1ca1_77309736',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,40 +20,40 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bd20c09c6ce09_52673928 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd4a3a1eb1ca1_77309736 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_10701587135bd20c09c07607_11169346', 'form_field');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3295759305bd4a3a1e4de84_34940619', 'form_field');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_14227852175bd20c09c1c351_55869884', "address_form_url");
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2752614895bd4a3a1e600b2_52100778', "address_form_url");
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_7929976405bd20c09c30606_91757189', 'form_fields');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_18444031575bd4a3a1e725e1_34869872', 'form_fields');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_7542619305bd20c09c41d84_23507212', 'form_buttons');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_12729353735bd4a3a1e84ab0_77905131', 'form_buttons');
 ?>
 
 <?php $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'customer/_partials/address-form.tpl');
 }
 /* {block 'form_field'} */
-class Block_10701587135bd20c09c07607_11169346 extends Smarty_Internal_Block
+class Block_3295759305bd4a3a1e4de84_34940619 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'form_field' => 
   array (
-    0 => 'Block_10701587135bd20c09c07607_11169346',
+    0 => 'Block_3295759305bd4a3a1e4de84_34940619',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -70,12 +70,12 @@ $_smarty_tpl->inheritance->callParent($_smarty_tpl, $this, '{$smarty.block.paren
 }
 /* {/block 'form_field'} */
 /* {block "address_form_url"} */
-class Block_14227852175bd20c09c1c351_55869884 extends Smarty_Internal_Block
+class Block_2752614895bd4a3a1e600b2_52100778 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'address_form_url' => 
   array (
-    0 => 'Block_14227852175bd20c09c1c351_55869884',
+    0 => 'Block_2752614895bd4a3a1e600b2_52100778',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -95,12 +95,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block "address_form_url"} */
 /* {block 'form_fields'} */
-class Block_7929976405bd20c09c30606_91757189 extends Smarty_Internal_Block
+class Block_18444031575bd4a3a1e725e1_34869872 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'form_fields' => 
   array (
-    0 => 'Block_7929976405bd20c09c30606_91757189',
+    0 => 'Block_18444031575bd4a3a1e725e1_34869872',
   ),
 );
 public $append = 'true';
@@ -122,12 +122,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'form_fields'} */
 /* {block 'form_buttons'} */
-class Block_7542619305bd20c09c41d84_23507212 extends Smarty_Internal_Block
+class Block_12729353735bd4a3a1e84ab0_77905131 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'form_buttons' => 
   array (
-    0 => 'Block_7542619305bd20c09c41d84_23507212',
+    0 => 'Block_12729353735bd4a3a1e84ab0_77905131',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -138,8 +138,8 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 </button>
     <a class="js-cancel-address cancel-address float-xs-right" href="<?php ob_start();
 echo htmlspecialchars($_smarty_tpl->tpl_vars['type']->value, ENT_QUOTES, 'UTF-8');
-$_prefixVariable85 = ob_get_clean();
-echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['url'][0], array( array('entity'=>'order','params'=>array('cancelAddress'=>$_prefixVariable85)),$_smarty_tpl ) );?>
+$_prefixVariable1 = ob_get_clean();
+echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['url'][0], array( array('entity'=>'order','params'=>array('cancelAddress'=>$_prefixVariable1)),$_smarty_tpl ) );?>
 "><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Cancel','d'=>'Shop.Theme.Actions'),$_smarty_tpl ) );?>
 </a>
   <?php } else { ?>
@@ -151,8 +151,8 @@ echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUG
       <?php if (count($_smarty_tpl->tpl_vars['customer']->value['addresses']) > 0) {?>
         <a class="js-cancel-address cancel-address float-xs-right" href="<?php ob_start();
 echo htmlspecialchars($_smarty_tpl->tpl_vars['type']->value, ENT_QUOTES, 'UTF-8');
-$_prefixVariable86 = ob_get_clean();
-echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['url'][0], array( array('entity'=>'order','params'=>array('cancelAddress'=>$_prefixVariable86)),$_smarty_tpl ) );?>
+$_prefixVariable2 = ob_get_clean();
+echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['url'][0], array( array('entity'=>'order','params'=>array('cancelAddress'=>$_prefixVariable2)),$_smarty_tpl ) );?>
 "><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Cancel','d'=>'Shop.Theme.Actions'),$_smarty_tpl ) );?>
 </a>
       <?php }?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-27 17:50:59
+/* Smarty version 3.1.32, created on 2018-10-27 19:42:42
   from 'E:\wamp64\www\BE-projekt\modules\productcomments\productcomments.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd48963adaa86_99154278',
+  'unifunc' => 'content_5bd4a392ae1024_45939945',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bd48963adaa86_99154278 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd4a392ae1024_45939945 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
     var productcomments_controller_url = '<?php echo $_smarty_tpl->tpl_vars['productcomments_controller_url']->value;?>
