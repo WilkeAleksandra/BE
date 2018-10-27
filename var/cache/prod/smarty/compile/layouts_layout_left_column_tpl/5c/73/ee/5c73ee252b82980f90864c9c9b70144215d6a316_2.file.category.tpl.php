@@ -1,8 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-25 14:03:08
 =======
 /* Smarty version 3.1.32, created on 2018-10-27 17:54:12
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 21:24:16
 >>>>>>> dorota
   from 'E:\wamp64\www\BE-projekt\themes\classic\templates\catalog\listing\category.tpl' */
 
@@ -10,9 +14,13 @@
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
 <<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bd1b0fc147141_16000948',
 =======
   'unifunc' => 'content_5bd48a24e0d7e3_15559375',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4bb60565f20_78580940',
 >>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
@@ -29,9 +37,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bd1b0fc147141_16000948 (Smarty_Internal_Template $_smarty_tpl) {
 =======
 function content_5bd48a24e0d7e3_15559375 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4bb60565f20_78580940 (Smarty_Internal_Template $_smarty_tpl) {
 >>>>>>> dorota
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
@@ -40,9 +52,13 @@ $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 
 <?php 
 <<<<<<< HEAD
+<<<<<<< HEAD
 $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_749528115bd1b0fc112145_90633352', 'product_list_header');
 =======
 $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_17773698995bd48a24ddcc46_22155005', 'product_list_header');
+>>>>>>> dorota
+=======
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_6397263625bd4bb60538c41_59733348', 'product_list_header');
 >>>>>>> dorota
 ?>
 
@@ -50,18 +66,26 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_17773698995bd48a24
 }
 /* {block 'product_list_header'} */
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Block_749528115bd1b0fc112145_90633352 extends Smarty_Internal_Block
 =======
 class Block_17773698995bd48a24ddcc46_22155005 extends Smarty_Internal_Block
+>>>>>>> dorota
+=======
+class Block_6397263625bd4bb60538c41_59733348 extends Smarty_Internal_Block
 >>>>>>> dorota
 {
 public $subBlocks = array (
   'product_list_header' => 
   array (
 <<<<<<< HEAD
+<<<<<<< HEAD
     0 => 'Block_749528115bd1b0fc112145_90633352',
 =======
     0 => 'Block_17773698995bd48a24ddcc46_22155005',
+>>>>>>> dorota
+=======
+    0 => 'Block_6397263625bd4bb60538c41_59733348',
 >>>>>>> dorota
   ),
 );

@@ -1,8 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-23 20:50:28
 =======
 /* Smarty version 3.1.32, created on 2018-10-25 20:32:32
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 19:43:32
 >>>>>>> dorota
   from 'module:pscashondeliveryviewstemp' */
 
@@ -10,9 +14,13 @@
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
 <<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bcf6d7486dfb7_09020325',
 =======
   'unifunc' => 'content_5bd20c40076407_45498709',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4a3c4583958_01195824',
 >>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
@@ -33,9 +41,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bcf6d7486dfb7_09020325 (Smarty_Internal_Template $_smarty_tpl) {
 =======
 function content_5bd20c40076407_45498709 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4a3c4583958_01195824 (Smarty_Internal_Template $_smarty_tpl) {
 >>>>>>> dorota
 ?>
 <section>

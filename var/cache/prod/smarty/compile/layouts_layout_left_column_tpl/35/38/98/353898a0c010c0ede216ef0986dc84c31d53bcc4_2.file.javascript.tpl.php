@@ -1,8 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-25 14:03:09
 =======
 /* Smarty version 3.1.32, created on 2018-10-27 17:54:13
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 21:24:17
 >>>>>>> dorota
   from 'E:\wamp64\www\BE-projekt\themes\classic\templates\_partials\javascript.tpl' */
 
@@ -10,9 +14,13 @@
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
 <<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bd1b0fd513d20_90761909',
 =======
   'unifunc' => 'content_5bd48a25df6731_93673453',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4bb61644c29_32208677',
 >>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
@@ -29,9 +37,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bd1b0fd513d20_90761909 (Smarty_Internal_Template $_smarty_tpl) {
 =======
 function content_5bd48a25df6731_93673453 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4bb61644c29_32208677 (Smarty_Internal_Template $_smarty_tpl) {
 >>>>>>> dorota
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['javascript']->value['external'], 'js');
 if ($_from !== null) {

@@ -1,8 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-23 20:51:34
 =======
 /* Smarty version 3.1.32, created on 2018-10-25 20:33:16
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 19:23:37
 >>>>>>> dorota
   from 'module:pswirepaymentviewstemplat' */
 
@@ -10,9 +14,13 @@
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
 <<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bcf6db6a59411_32889685',
 =======
   'unifunc' => 'content_5bd20c6cb67272_99710341',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd49f19161d46_67981488',
 >>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
@@ -34,9 +42,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bcf6db6a59411_32889685 (Smarty_Internal_Template $_smarty_tpl) {
 =======
 function content_5bd20c6cb67272_99710341 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd49f19161d46_67981488 (Smarty_Internal_Template $_smarty_tpl) {
 >>>>>>> dorota
 if ($_smarty_tpl->tpl_vars['status']->value == 'ok') {?>
     <p>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-25 20:32:32
+/* Smarty version 3.1.32, created on 2018-10-27 19:43:32
   from 'E:\wamp64\www\BE-projekt\themes\classic\templates\checkout\_partials\steps\payment.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd20c4023fc53_42090876',
+  'unifunc' => 'content_5bd4a3c46ff414_98208705',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,25 +21,25 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:checkout/_partials/order-final-summary.tpl' => 1,
   ),
 ),false)) {
-function content_5bd20c4023fc53_42090876 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd4a3c46ff414_98208705 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_14341438325bd20c4015f9d1_13581718', 'step_content');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_12146734185bd4a3c460ad84_33133272', 'step_content');
 ?>
 
 <?php $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'checkout/_partials/steps/checkout-step.tpl');
 }
 /* {block 'step_content'} */
-class Block_14341438325bd20c4015f9d1_13581718 extends Smarty_Internal_Block
+class Block_12146734185bd4a3c460ad84_33133272 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'step_content' => 
   array (
-    0 => 'Block_14341438325bd20c4015f9d1_13581718',
+    0 => 'Block_12146734185bd4a3c460ad84_33133272',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

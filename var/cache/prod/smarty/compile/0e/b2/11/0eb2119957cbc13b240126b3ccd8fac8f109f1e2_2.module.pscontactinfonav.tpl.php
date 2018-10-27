@@ -1,8 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-26 00:21:38
 =======
 /* Smarty version 3.1.32, created on 2018-10-27 17:54:25
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 21:24:17
 >>>>>>> dorota
   from 'module:pscontactinfonav.tpl' */
 
@@ -10,9 +14,13 @@
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
 <<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bd241f258ded1_93572883',
 =======
   'unifunc' => 'content_5bd48a31e38a97_08056054',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4bb61a58719_78382316',
 >>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
@@ -29,9 +37,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bd241f258ded1_93572883 (Smarty_Internal_Template $_smarty_tpl) {
 =======
 function content_5bd48a31e38a97_08056054 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4bb61a58719_78382316 (Smarty_Internal_Template $_smarty_tpl) {
 >>>>>>> dorota
 ?><div id="_desktop_contact_link">
   <div id="contact-link">

@@ -1,8 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-26 00:21:38
 =======
 /* Smarty version 3.1.32, created on 2018-10-27 17:54:26
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 21:24:18
 >>>>>>> dorota
   from 'module:pssearchbarpssearchbar.tp' */
 
@@ -10,9 +14,13 @@
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
 <<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bd241f2c95895_25205082',
 =======
   'unifunc' => 'content_5bd48a32548729_32711121',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4bb62218ea7_77795986',
 >>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
@@ -29,9 +37,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bd241f2c95895_25205082 (Smarty_Internal_Template $_smarty_tpl) {
 =======
 function content_5bd48a32548729_32711121 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4bb62218ea7_77795986 (Smarty_Internal_Template $_smarty_tpl) {
 >>>>>>> dorota
 ?><!-- Block search module TOP -->
 <div id="search_widget" class="search-widget" data-search-controller-url="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>

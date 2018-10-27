@@ -1,8 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-23 20:49:47
 =======
 /* Smarty version 3.1.32, created on 2018-10-25 20:30:08
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 19:42:38
 >>>>>>> dorota
   from 'module:psshoppingcartmodal.tpl' */
 
@@ -10,9 +14,13 @@
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
 <<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bcf6d4b196343_34456340',
 =======
   'unifunc' => 'content_5bd20bb062f2d7_34635953',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4a38e48b826_07783850',
 >>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
@@ -33,9 +41,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bcf6d4b196343_34456340 (Smarty_Internal_Template $_smarty_tpl) {
 =======
 function content_5bd20bb062f2d7_34635953 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4a38e48b826_07783850 (Smarty_Internal_Template $_smarty_tpl) {
 >>>>>>> dorota
 ?><div id="blockcart-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">

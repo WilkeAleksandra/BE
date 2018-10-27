@@ -1,8 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-26 00:21:38
 =======
 /* Smarty version 3.1.32, created on 2018-10-27 17:54:27
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 21:24:20
 >>>>>>> dorota
   from 'module:psemailsubscriptionviewst' */
 
@@ -10,9 +14,13 @@
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
 <<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bd241f2d2dc88_11003530',
 =======
   'unifunc' => 'content_5bd48a334eacb6_66182571',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4bb64dbb370_25396112',
 >>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
@@ -29,9 +37,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bd241f2d2dc88_11003530 (Smarty_Internal_Template $_smarty_tpl) {
 =======
 function content_5bd48a334eacb6_66182571 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4bb64dbb370_25396112 (Smarty_Internal_Template $_smarty_tpl) {
 >>>>>>> dorota
 ?>
 <div class="block_newsletter col-lg-8 col-md-12 col-sm-12">
