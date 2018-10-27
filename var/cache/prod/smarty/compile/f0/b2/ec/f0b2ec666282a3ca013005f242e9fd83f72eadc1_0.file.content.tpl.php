@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-25 12:26:59
+/* Smarty version 3.1.32, created on 2018-10-27 16:36:11
   from 'E:\wamp64\www\BE-projekt\admin866htnwy5\themes\default\template\controllers\login\content.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd19a737fcea2_32071847',
+  'unifunc' => 'content_5bd477db269727_87409750',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bd19a737fcea2_32071847 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd477db269727_87409750 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'E:\\wamp64\\www\\BE-projekt\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.date_format.php','function'=>'smarty_modifier_date_format',),));
 ?><div id="login-panel">
 	<div id="login-header">

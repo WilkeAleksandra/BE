@@ -1,11 +1,19 @@
 <?php
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-25 23:10:59
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 17:54:24
+>>>>>>> dorota
   from 'module:productcommentsproductcom' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
+<<<<<<< HEAD
   'unifunc' => 'content_5bd23163b7b3a7_14177169',
+=======
+  'unifunc' => 'content_5bd48a305c4f38_49584809',
+>>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +28,11 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
+<<<<<<< HEAD
 function content_5bd23163b7b3a7_14177169 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_5bd48a305c4f38_49584809 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
 ?><div class="comments_note">
     <?php if ($_smarty_tpl->tpl_vars['averageTotal']->value > 0 && Configuration::get('PRODUCT_COMMENTS_LIST') == 1) {?>
         <div class="star_content clearfix">
