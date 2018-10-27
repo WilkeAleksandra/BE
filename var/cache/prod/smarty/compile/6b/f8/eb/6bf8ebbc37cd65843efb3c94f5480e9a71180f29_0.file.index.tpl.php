@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-25 12:42:04
+/* Smarty version 3.1.32, created on 2018-10-25 20:27:32
   from 'E:\wamp64\www\BE-projekt\modules\ps_themecusto\views\templates\admin\controllers\configuration\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd19dfc1e7aa5_15292393',
+  'unifunc' => 'content_5bd20b149945c2_60487545',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./elem/modal.tpl' => 1,
   ),
 ),false)) {
-function content_5bd19dfc1e7aa5_15292393 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd20b149945c2_60487545 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="psthemecusto">
     <?php if ($_smarty_tpl->tpl_vars['is_ps_ready']->value) {?>
