@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-25 20:27:33
+/* Smarty version 3.1.32, created on 2018-10-29 20:23:52
   from 'E:\wamp64\www\BE-projekt\modules\ps_themecusto\views\templates\admin\controllers\configuration\elem\modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd20b15a3c445_67992796',
+  'unifunc' => 'content_5bd75e48b3f676_46345040',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bd20b15a3c445_67992796 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd75e48b3f676_46345040 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="modal fade" id="moduleActionModal" tabindex="-1" role="dialog" aria-labelledby="moduleActionModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">

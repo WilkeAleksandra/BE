@@ -1,34 +1,18 @@
 <?php
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* Smarty version 3.1.32, created on 2018-10-25 23:10:59
-=======
-/* Smarty version 3.1.32, created on 2018-10-27 17:54:23
->>>>>>> dorota
-=======
-/* Smarty version 3.1.32, created on 2018-10-27 19:43:56
->>>>>>> dorota
+/* Smarty version 3.1.32, created on 2018-10-29 20:29:53
   from 'module:psfeaturedproductsviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-<<<<<<< HEAD
-<<<<<<< HEAD
-  'unifunc' => 'content_5bd23163898d35_51137468',
-=======
-  'unifunc' => 'content_5bd48a2f6ee406_22588175',
->>>>>>> dorota
-=======
-  'unifunc' => 'content_5bd4a3dc6337f6_68069034',
->>>>>>> dorota
+  'unifunc' => 'content_5bd75fb1bbfeb2_23354459',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fa6cc378d2942c8857b89d6bca728048c0caeedd' => 
     array (
       0 => 'module:psfeaturedproductsviewste',
-      1 => 1540463725,
+      1 => 1540238324,
       2 => 'module',
     ),
   ),
@@ -37,15 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-function content_5bd23163898d35_51137468 (Smarty_Internal_Template $_smarty_tpl) {
-=======
-function content_5bd48a2f6ee406_22588175 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
-=======
-function content_5bd4a3dc6337f6_68069034 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
+function content_5bd75fb1bbfeb2_23354459 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section class="featured-products clearfix">
   <h2 class="h2 products-section-title text-uppercase">
     <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Popular Products','d'=>'Shop.Theme.Catalog'),$_smarty_tpl ) );?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-27 19:43:09
+/* Smarty version 3.1.32, created on 2018-10-29 20:24:14
   from 'E:\wamp64\www\BE-projekt\admin866htnwy5\themes\default\template\controllers\modules\modal_not_trusted_country.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd4a3adadb0f4_69237101',
+  'unifunc' => 'content_5bd75e5e404ff1_85653360',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bd4a3adadb0f4_69237101 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd75e5e404ff1_85653360 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_assignInScope('module_name', '<strong><span class="module-display-name-placeholder"></span></strong>');?>
 
 <div class="modal-body">
