@@ -1,27 +1,11 @@
 <?php
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* Smarty version 3.1.32, created on 2018-10-25 14:03:57
-=======
-/* Smarty version 3.1.32, created on 2018-10-27 17:54:25
->>>>>>> dorota
-=======
-/* Smarty version 3.1.32, created on 2018-10-27 21:23:58
->>>>>>> dorota
+/* Smarty version 3.1.32, created on 2018-10-29 20:16:31
   from 'E:\wamp64\www\BE-projekt\themes\classic\templates\catalog\_partials\product-activation.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-<<<<<<< HEAD
-<<<<<<< HEAD
-  'unifunc' => 'content_5bd1b12d00c843_27449069',
-=======
-  'unifunc' => 'content_5bd48a31af7cb0_21391294',
->>>>>>> dorota
-=======
-  'unifunc' => 'content_5bd4bb4e95a467_90438911',
->>>>>>> dorota
+  'unifunc' => 'content_5bd75c8fcc7599_89903673',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -36,15 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-function content_5bd1b12d00c843_27449069 (Smarty_Internal_Template $_smarty_tpl) {
-=======
-function content_5bd48a31af7cb0_21391294 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
-=======
-function content_5bd4bb4e95a467_90438911 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
+function content_5bd75c8fcc7599_89903673 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['page']->value['admin_notifications']) {?>
   <div class="alert alert-warning row" role="alert">
     <div class="container">

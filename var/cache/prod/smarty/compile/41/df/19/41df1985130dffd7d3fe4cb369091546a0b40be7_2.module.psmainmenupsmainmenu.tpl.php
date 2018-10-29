@@ -1,34 +1,18 @@
 <?php
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* Smarty version 3.1.32, created on 2018-10-26 00:21:38
-=======
-/* Smarty version 3.1.32, created on 2018-10-27 17:54:26
->>>>>>> dorota
-=======
-/* Smarty version 3.1.32, created on 2018-10-27 21:24:17
->>>>>>> dorota
+/* Smarty version 3.1.32, created on 2018-10-29 20:17:10
   from 'module:psmainmenupsmainmenu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-<<<<<<< HEAD
-<<<<<<< HEAD
-  'unifunc' => 'content_5bd241f2aa4b61_80504016',
-=======
-  'unifunc' => 'content_5bd48a32314228_20638313',
->>>>>>> dorota
-=======
-  'unifunc' => 'content_5bd4bb61e26ca0_49695666',
->>>>>>> dorota
+  'unifunc' => 'content_5bd75cb62ed792_83822513',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '41df1985130dffd7d3fe4cb369091546a0b40be7' => 
     array (
       0 => 'module:psmainmenupsmainmenu.tpl',
-      1 => 1540463725,
+      1 => 1540238324,
       2 => 'module',
     ),
   ),
@@ -36,29 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-function content_5bd241f2aa4b61_80504016 (Smarty_Internal_Template $_smarty_tpl) {
-=======
-function content_5bd48a32314228_20638313 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
-=======
-function content_5bd4bb61e26ca0_49695666 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
+function content_5bd75cb62ed792_83822513 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'menu' => 
   array (
-    'compiled_filepath' => 'C:\\wamp64\\www\\BE-projekt\\var\\cache\\prod\\smarty\\compile\\41\\df\\19\\41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.psmainmenupsmainmenu.tpl.php',
+    'compiled_filepath' => 'E:\\wamp64\\www\\BE-projekt\\var\\cache\\prod\\smarty\\compile\\41\\df\\19\\41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.psmainmenupsmainmenu.tpl.php',
     'uid' => '41df1985130dffd7d3fe4cb369091546a0b40be7',
-<<<<<<< HEAD
-<<<<<<< HEAD
-    'call_name' => 'smarty_template_function_menu_5618973605bd241f2a51a58_86052285',
-=======
-    'call_name' => 'smarty_template_function_menu_6683885395bd48a32293146_11289142',
->>>>>>> dorota
-=======
-    'call_name' => 'smarty_template_function_menu_10596267965bd4bb61da9fb9_04123082',
->>>>>>> dorota
+    'call_name' => 'smarty_template_function_menu_4619318545bd75cb61faef1_80467310',
   ),
 ));
 $_smarty_tpl->_assignInScope('_counter', 0);?>
@@ -70,21 +38,9 @@ $_smarty_tpl->_assignInScope('_counter', 0);?>
     <div class="clearfix"></div>
 </div>
 <?php }
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* smarty_template_function_menu_5618973605bd241f2a51a58_86052285 */
-if (!function_exists('smarty_template_function_menu_5618973605bd241f2a51a58_86052285')) {
-function smarty_template_function_menu_5618973605bd241f2a51a58_86052285(Smarty_Internal_Template $_smarty_tpl,$params) {
-=======
-/* smarty_template_function_menu_6683885395bd48a32293146_11289142 */
-if (!function_exists('smarty_template_function_menu_6683885395bd48a32293146_11289142')) {
-function smarty_template_function_menu_6683885395bd48a32293146_11289142(Smarty_Internal_Template $_smarty_tpl,$params) {
->>>>>>> dorota
-=======
-/* smarty_template_function_menu_10596267965bd4bb61da9fb9_04123082 */
-if (!function_exists('smarty_template_function_menu_10596267965bd4bb61da9fb9_04123082')) {
-function smarty_template_function_menu_10596267965bd4bb61da9fb9_04123082(Smarty_Internal_Template $_smarty_tpl,$params) {
->>>>>>> dorota
+/* smarty_template_function_menu_4619318545bd75cb61faef1_80467310 */
+if (!function_exists('smarty_template_function_menu_4619318545bd75cb61faef1_80467310')) {
+function smarty_template_function_menu_4619318545bd75cb61faef1_80467310(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0,'parent'=>null), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -139,13 +95,5 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
       </ul>
     <?php }
 }}
-<<<<<<< HEAD
-<<<<<<< HEAD
-/*/ smarty_template_function_menu_5618973605bd241f2a51a58_86052285 */
-=======
-/*/ smarty_template_function_menu_6683885395bd48a32293146_11289142 */
->>>>>>> dorota
-=======
-/*/ smarty_template_function_menu_10596267965bd4bb61da9fb9_04123082 */
->>>>>>> dorota
+/*/ smarty_template_function_menu_4619318545bd75cb61faef1_80467310 */
 }

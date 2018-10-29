@@ -1,34 +1,18 @@
 <?php
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* Smarty version 3.1.32, created on 2018-10-26 00:21:38
-=======
-/* Smarty version 3.1.32, created on 2018-10-27 17:54:26
->>>>>>> dorota
-=======
-/* Smarty version 3.1.32, created on 2018-10-27 21:24:18
->>>>>>> dorota
+/* Smarty version 3.1.32, created on 2018-10-29 20:17:10
   from 'module:pssearchbarpssearchbar.tp' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-<<<<<<< HEAD
-<<<<<<< HEAD
-  'unifunc' => 'content_5bd241f2c95895_25205082',
-=======
-  'unifunc' => 'content_5bd48a32548729_32711121',
->>>>>>> dorota
-=======
-  'unifunc' => 'content_5bd4bb62218ea7_77795986',
->>>>>>> dorota
+  'unifunc' => 'content_5bd75cb657cd08_68516459',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '110ec72aa9921d2c382ad628bdb2f0bc5105a617' => 
     array (
       0 => 'module:pssearchbarpssearchbar.tp',
-      1 => 1540463725,
+      1 => 1540238324,
       2 => 'module',
     ),
   ),
@@ -36,15 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-function content_5bd241f2c95895_25205082 (Smarty_Internal_Template $_smarty_tpl) {
-=======
-function content_5bd48a32548729_32711121 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
-=======
-function content_5bd4bb62218ea7_77795986 (Smarty_Internal_Template $_smarty_tpl) {
->>>>>>> dorota
+function content_5bd75cb657cd08_68516459 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- Block search module TOP -->
 <div id="search_widget" class="search-widget" data-search-controller-url="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>
 ">
