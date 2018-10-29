@@ -1,11 +1,27 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-23 16:37:14
+<<<<<<< HEAD
+<<<<<<< HEAD
+/* Smarty version 3.1.32, created on 2018-10-25 14:03:09
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 17:54:13
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 21:24:17
+>>>>>>> dorota
   from 'E:\wamp64\www\BE-projekt\themes\classic\templates\_partials\javascript.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bcf321ae4eb43_71960537',
+<<<<<<< HEAD
+<<<<<<< HEAD
+  'unifunc' => 'content_5bd1b0fd513d20_90761909',
+=======
+  'unifunc' => 'content_5bd48a25df6731_93673453',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4bb61644c29_32208677',
+>>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +36,15 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bcf321ae4eb43_71960537 (Smarty_Internal_Template $_smarty_tpl) {
+<<<<<<< HEAD
+<<<<<<< HEAD
+function content_5bd1b0fd513d20_90761909 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_5bd48a25df6731_93673453 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4bb61644c29_32208677 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['javascript']->value['external'], 'js');
 if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['js']->value) {

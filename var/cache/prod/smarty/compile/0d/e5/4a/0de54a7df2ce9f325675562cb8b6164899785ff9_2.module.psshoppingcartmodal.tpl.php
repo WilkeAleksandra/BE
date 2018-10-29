@@ -1,18 +1,38 @@
 <?php
+<<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-23 20:49:47
+=======
+/* Smarty version 3.1.32, created on 2018-10-25 20:30:08
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 19:42:38
+>>>>>>> dorota
   from 'module:psshoppingcartmodal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
+<<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bcf6d4b196343_34456340',
+=======
+  'unifunc' => 'content_5bd20bb062f2d7_34635953',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4a38e48b826_07783850',
+>>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '0de54a7df2ce9f325675562cb8b6164899785ff9' => 
     array (
       0 => 'module:psshoppingcartmodal.tpl',
+<<<<<<< HEAD
       1 => 1539604014,
+=======
+      1 => 1540238324,
+>>>>>>> dorota
       2 => 'module',
     ),
   ),
@@ -20,7 +40,15 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
+<<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bcf6d4b196343_34456340 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_5bd20bb062f2d7_34635953 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4a38e48b826_07783850 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
 ?><div id="blockcart-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">

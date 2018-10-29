@@ -1,11 +1,19 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-23 16:39:59
+<<<<<<< HEAD
+/* Smarty version 3.1.32, created on 2018-10-25 14:03:54
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 16:32:09
+>>>>>>> dorota
   from 'E:\wamp64\www\BE-projekt\themes\classic\templates\catalog\_partials\variant-links.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bcf32bfb39ae9_44816839',
+<<<<<<< HEAD
+  'unifunc' => 'content_5bd1b12abb08b1_83886033',
+=======
+  'unifunc' => 'content_5bd476e9665b65_71366402',
+>>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +28,11 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bcf32bfb39ae9_44816839 (Smarty_Internal_Template $_smarty_tpl) {
+<<<<<<< HEAD
+function content_5bd1b12abb08b1_83886033 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_5bd476e9665b65_71366402 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
 ?><div class="variant-links">
   <?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['variants']->value, 'variant');

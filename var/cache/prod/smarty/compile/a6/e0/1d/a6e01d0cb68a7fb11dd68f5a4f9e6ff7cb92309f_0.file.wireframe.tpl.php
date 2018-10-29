@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-23 16:25:59
+/* Smarty version 3.1.32, created on 2018-10-25 20:27:32
   from 'E:\wamp64\www\BE-projekt\modules\ps_themecusto\views\templates\admin\controllers\configuration\elem\wireframe.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bcf2f7727fbb8_71298119',
+  'unifunc' => 'content_5bd20b14eac064_71964202',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bcf2f7727fbb8_71298119 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd20b14eac064_71964202 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="row js-wireframe">
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 js-img-menu" data-module_name="menu">

@@ -1,18 +1,38 @@
 <?php
+<<<<<<< HEAD
+<<<<<<< HEAD
 /* Smarty version 3.1.32, created on 2018-10-23 20:50:28
+=======
+/* Smarty version 3.1.32, created on 2018-10-25 20:33:16
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 19:43:32
+>>>>>>> dorota
   from 'module:pswirepaymentviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
+<<<<<<< HEAD
+<<<<<<< HEAD
   'unifunc' => 'content_5bcf6d7459c624_92670112',
+=======
+  'unifunc' => 'content_5bd20c6ccbe0a8_78973018',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4a3c4472aa5_74851281',
+>>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '89661fbe7f9f4c111d8bdb6320dbdcd70e1222f8' => 
     array (
       0 => 'module:pswirepaymentviewstemplat',
+<<<<<<< HEAD
       1 => 1539604014,
+=======
+      1 => 1540238322,
+>>>>>>> dorota
       2 => 'module',
     ),
   ),
@@ -20,7 +40,15 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
+<<<<<<< HEAD
+<<<<<<< HEAD
 function content_5bcf6d7459c624_92670112 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_5bd20c6ccbe0a8_78973018 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4a3c4472aa5_74851281 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
 ?>
 
 <dl>

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-24 22:25:31
+/* Smarty version 3.1.32, created on 2018-10-26 00:21:05
   from 'C:\wamp64\www\BE-projekt\admin866htnwy5\themes\default\template\helpers\uploader\ajax.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd0d53bc83f66_67152384',
+  'unifunc' => 'content_5bd241d19c6969_48564334',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'be16f3b5f1245095517c75a84ad66a09ed67262e' => 
     array (
       0 => 'C:\\wamp64\\www\\BE-projekt\\admin866htnwy5\\themes\\default\\template\\helpers\\uploader\\ajax.tpl',
-      1 => 1539604014,
+      1 => 1540463670,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bd0d53bc83f66_67152384 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd241d19c6969_48564334 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="form-group" style="display: none;">
 	<div class="col-lg-12" id="<?php echo call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['id']->value,'html','UTF-8' ));?>
 -images-thumbnails">
