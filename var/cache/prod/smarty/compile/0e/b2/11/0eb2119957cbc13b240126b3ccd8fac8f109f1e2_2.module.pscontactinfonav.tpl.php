@@ -1,18 +1,34 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-22 16:44:32
+<<<<<<< HEAD
+<<<<<<< HEAD
+/* Smarty version 3.1.32, created on 2018-10-26 00:21:38
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 17:54:25
+>>>>>>> dorota
+=======
+/* Smarty version 3.1.32, created on 2018-10-27 21:24:17
+>>>>>>> dorota
   from 'module:pscontactinfonav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bcde250b4dc74_55382052',
+<<<<<<< HEAD
+<<<<<<< HEAD
+  'unifunc' => 'content_5bd241f258ded1_93572883',
+=======
+  'unifunc' => 'content_5bd48a31e38a97_08056054',
+>>>>>>> dorota
+=======
+  'unifunc' => 'content_5bd4bb61a58719_78382316',
+>>>>>>> dorota
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '0eb2119957cbc13b240126b3ccd8fac8f109f1e2' => 
     array (
       0 => 'module:pscontactinfonav.tpl',
-      1 => 1539604014,
+      1 => 1540463725,
       2 => 'module',
     ),
   ),
@@ -20,7 +36,15 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bcde250b4dc74_55382052 (Smarty_Internal_Template $_smarty_tpl) {
+<<<<<<< HEAD
+<<<<<<< HEAD
+function content_5bd241f258ded1_93572883 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_5bd48a31e38a97_08056054 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
+=======
+function content_5bd4bb61a58719_78382316 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> dorota
 ?><div id="_desktop_contact_link">
   <div id="contact-link">
     <?php if ($_smarty_tpl->tpl_vars['contact_infos']->value['phone']) {?>

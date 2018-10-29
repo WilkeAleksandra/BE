@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-22 16:54:03
+/* Smarty version 3.1.32, created on 2018-10-25 16:37:14
   from 'C:\wamp64\www\BE-projekt\modules\dashgoals\views\templates\hook\config.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bcde48b02f983_49797115',
+  'unifunc' => 'content_5bd1d51ae3b037_06826703',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '48b811a26857768d44f1d8084f92da8cdba9e33c' => 
     array (
       0 => 'C:\\wamp64\\www\\BE-projekt\\modules\\dashgoals\\views\\templates\\hook\\config.tpl',
-      1 => 1539604014,
+      1 => 1540463706,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bcde48b02f983_49797115 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd1d51ae3b037_06826703 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section id="dashgoals_config" class="dash_config hide">
 	<header><i class="icon-wrench"></i> <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Configuration','d'=>'Admin.Global'),$_smarty_tpl ) );?>
 </header>
@@ -46,7 +46,7 @@ function content_5bcde48b02f983_49797115 (Smarty_Internal_Template $_smarty_tpl)
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['goals_months']->value, 'month');
 if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['month']->key => $_smarty_tpl->tpl_vars['month']->value) {
-$__foreach_month_0_saved = $_smarty_tpl->tpl_vars['month'];
+$__foreach_month_29_saved = $_smarty_tpl->tpl_vars['month'];
 ?>
 				<tr>
 					<td>
@@ -88,7 +88,7 @@ $__foreach_month_0_saved = $_smarty_tpl->tpl_vars['month'];
 					</td>
 				</tr>
 				<?php
-$_smarty_tpl->tpl_vars['month'] = $__foreach_month_0_saved;
+$_smarty_tpl->tpl_vars['month'] = $__foreach_month_29_saved;
 }
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
